@@ -1,0 +1,19 @@
+{
+  "name": "feelgrid-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ichicoro/feelgrid-backend.git"
+  },
+  "author": "Ichicoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ichicoro/feelgrid-backend/issues"
+  },
+  "homepage": "https://github.com/Ichicoro/feelgrid-backend#readme"
+}
